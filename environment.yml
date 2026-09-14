@@ -1,0 +1,14 @@
+name: geo4902
+channels:
+  - conda-forge
+dependencies:
+  - netcdf4
+  - scipy
+  - matplotlib
+  - python=3.14
+  - xarray
+  - ipykernel
+  - cmcrameri
+  - numpy
+  - cartopy
+  - threddsclient
